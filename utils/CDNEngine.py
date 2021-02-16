@@ -17,7 +17,9 @@ CDN = {
     'Fastly': 'Fastly - https://www.fastly.com/',
     'Myracloud': 'Myra - https://myracloud.com',
     'msecnd.ne': 'Microsoft Azure - https://azure.microsoft.com/en-us/services/cdn/',
-    'Clever-cloud': 'Clever Cloud - https://www.clever-cloud.com/'
+    'Clever-cloud': 'Clever Cloud - https://www.clever-cloud.com/',
+    'ArvanCloud': 'Arvan Cloud - https://www.arvancloud.com/',
+    'Arvan Cloud': 'Arvan Cloud - https://www.arvancloud.com/'
 }
 
 def find(data):
