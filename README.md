@@ -33,11 +33,11 @@ whichCDN http://www.example.com | example.com
 * Fastly
 * Myracloud
 * Microsft Azure
+* ArvanCloud
 
 ## Todo
 
 * Azion
-* ArvanCloud
 * Beluga
 * DN77
 * CDNetwork
